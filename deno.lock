@@ -1,12 +1,9 @@
 {
-  "version": "4",
+  "version": "5",
   "specifiers": {
     "npm:date-holidays@*": "3.23.14",
-    "npm:date-holidays@^3.23.14": "3.23.14",
-    "npm:hono@*": "4.5.2",
-    "npm:hono@^4.6.14": "4.6.14",
-    "npm:ical-generator@*": "8.0.1",
-    "npm:ical-generator@^8.0.1": "8.0.1"
+    "npm:hono@*": "4.11.3",
+    "npm:ical-generator@*": "8.0.1"
   },
   "npm": {
     "argparse@2.0.1": {
@@ -53,16 +50,14 @@
         "js-yaml",
         "lodash",
         "prepin"
-      ]
+      ],
+      "bin": true
     },
     "deepmerge@4.3.1": {
       "integrity": "sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A=="
     },
-    "hono@4.5.2": {
-      "integrity": "sha512-93P8XEALrHAUGRZoqXs8MDL3w9mDgRpbW9Sy5x4LS7srg78bKUw7EGynxze+Ft1e/rLGmDAbxeSTMu6dHUSRDw=="
-    },
-    "hono@4.6.14": {
-      "integrity": "sha512-j4VkyUp2xazGJ8eCCLN1Vm/bxdvm/j5ZuU9AIjLu9vapn2M44p9L3Ktr9Vnb2RN2QtcR/wVjZVMlT5k7GJQgPw=="
+    "hono@4.11.3": {
+      "integrity": "sha512-PmQi306+M/ct/m5s66Hrg+adPnkD5jiO6IjA7WhWw0gSBSo1EcRegwuI1deZ+wd5pzCGynCcn2DprnE4/yEV4w=="
     },
     "ical-generator@8.0.1": {
       "integrity": "sha512-D7D0HPdjg8dEVTyN3QM95sioJj5/6TPj9wetrpt16tzszVgTIXHSSlreTsLuSSQpF61EdVxxTwYS9TVWr7vF0g==",
@@ -77,7 +72,8 @@
       "integrity": "sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==",
       "dependencies": [
         "argparse"
-      ]
+      ],
+      "bin": true
     },
     "lodash@4.17.21": {
       "integrity": "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg=="
@@ -92,7 +88,8 @@
       "integrity": "sha512-uEmtNhbDOrWPFS+hdjFCBfy9f2YoyzRpwcl+DqpC6taX21FzsTLQVbMV/W7PzNSX6x/bhC1zA3c2UQ5NzH6how=="
     },
     "prepin@1.0.3": {
-      "integrity": "sha512-0XL2hreherEEvUy0fiaGEfN/ioXFV+JpImqIzQjxk6iBg4jQ2ARKqvC4+BmRD8w/pnpD+lbxvh0Ub+z7yBEjvA=="
+      "integrity": "sha512-0XL2hreherEEvUy0fiaGEfN/ioXFV+JpImqIzQjxk6iBg4jQ2ARKqvC4+BmRD8w/pnpD+lbxvh0Ub+z7yBEjvA==",
+      "bin": true
     },
     "uuid-random@1.3.2": {
       "integrity": "sha512-UOzej0Le/UgkbWEO8flm+0y+G+ljUon1QWTEZOq1rnMAsxo2+SckbiZdKzAHHlVh6gJqI1TjC/xwgR50MuCrBQ=="
@@ -100,9 +97,9 @@
   },
   "workspace": {
     "dependencies": [
-      "npm:date-holidays@^3.23.14",
-      "npm:hono@^4.6.14",
-      "npm:ical-generator@^8.0.1"
+      "npm:date-holidays@^3.24.0",
+      "npm:hono@^4.7.0",
+      "npm:ical-generator@^8.1.0"
     ]
   }
 }

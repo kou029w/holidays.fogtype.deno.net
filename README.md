@@ -1,204 +1,204 @@
 # Public Holidays
 
-`https://holidays.deno.dev/:location.ics`
+`https://holidays.fogtype.deno.net/:location.ics`
 
-- [`ad.ics`](https://holidays.deno.dev/ad.ics) 🇦🇩 Andorra
-- [`ae.ics`](https://holidays.deno.dev/ae.ics) 🇦🇪 دولة الإمارات العربية المتحدة
-- [`ag.ics`](https://holidays.deno.dev/ag.ics) 🇦🇬 Antigua & Barbuda
-- [`ai.ics`](https://holidays.deno.dev/ai.ics) 🇦🇮 Anguilla
-- [`al.ics`](https://holidays.deno.dev/al.ics) 🇦🇱 Shqipëri
-- [`am.ics`](https://holidays.deno.dev/am.ics) 🇦🇲 Հայաստան
-- [`ao.ics`](https://holidays.deno.dev/ao.ics) 🇦🇴 Angola
-- [`ar.ics`](https://holidays.deno.dev/ar.ics) 🇦🇷 Argentina
-- [`as.ics`](https://holidays.deno.dev/as.ics) 🇦🇸 American Samoa
-- [`at.ics`](https://holidays.deno.dev/at.ics) 🇦🇹 Österreich
-- [`au.ics`](https://holidays.deno.dev/au.ics) 🇦🇺 Australia
-- [`aw.ics`](https://holidays.deno.dev/aw.ics) 🇦🇼 Aruba
-- [`ax.ics`](https://holidays.deno.dev/ax.ics) 🇦🇽 Landskapet Åland
-- [`az.ics`](https://holidays.deno.dev/az.ics) 🇦🇿 Azərbaycan Respublikası
-- [`ba.ics`](https://holidays.deno.dev/ba.ics) 🇧🇦 Bosna i Hercegovina
-- [`bb.ics`](https://holidays.deno.dev/bb.ics) 🇧🇧 Barbados
-- [`bd.ics`](https://holidays.deno.dev/bd.ics) 🇧🇩 গণপ্রজাতন্ত্রী বাংলাদেশ
-- [`be.ics`](https://holidays.deno.dev/be.ics) 🇧🇪 Belgique
-- [`bf.ics`](https://holidays.deno.dev/bf.ics) 🇧🇫 Burkina Faso
-- [`bg.ics`](https://holidays.deno.dev/bg.ics) 🇧🇬 България
-- [`bh.ics`](https://holidays.deno.dev/bh.ics) 🇧🇭 مملكة البحرين
-- [`bi.ics`](https://holidays.deno.dev/bi.ics) 🇧🇮 République du Burundi
-- [`bj.ics`](https://holidays.deno.dev/bj.ics) 🇧🇯 République du Bénin
-- [`bl.ics`](https://holidays.deno.dev/bl.ics) 🇧🇱 St. Barthélemy
-- [`bm.ics`](https://holidays.deno.dev/bm.ics) 🇧🇲 Bermuda
-- [`bn.ics`](https://holidays.deno.dev/bn.ics) 🇧🇳 Negara Brunei Darussalam
-- [`bo.ics`](https://holidays.deno.dev/bo.ics) 🇧🇴 Bolivia
-- [`bq.ics`](https://holidays.deno.dev/bq.ics) 🇧🇶 Caribisch Nederland
-- [`br.ics`](https://holidays.deno.dev/br.ics) 🇧🇷 Brasil
-- [`bs.ics`](https://holidays.deno.dev/bs.ics) 🇧🇸 Bahamas
-- [`bw.ics`](https://holidays.deno.dev/bw.ics) 🇧🇼 Botswana
-- [`by.ics`](https://holidays.deno.dev/by.ics) 🇧🇾 Рэспубліка Беларусь
-- [`bz.ics`](https://holidays.deno.dev/bz.ics) 🇧🇿 Belize
-- [`ca.ics`](https://holidays.deno.dev/ca.ics) 🇨🇦 Canada
-- [`cc.ics`](https://holidays.deno.dev/cc.ics) 🇨🇨 Cocos (Keeling) Islands
-- [`cd.ics`](https://holidays.deno.dev/cd.ics) 🇨🇩 République démocratique du Congo
-- [`cf.ics`](https://holidays.deno.dev/cf.ics) 🇨🇫 République centrafricaine
-- [`cg.ics`](https://holidays.deno.dev/cg.ics) 🇨🇬 République du Congo
-- [`ch.ics`](https://holidays.deno.dev/ch.ics) 🇨🇭 Schweiz
-- [`ci.ics`](https://holidays.deno.dev/ci.ics) 🇨🇮 République de Côte d'Ivoire
-- [`ck.ics`](https://holidays.deno.dev/ck.ics) 🇨🇰 Cook Islands
-- [`cl.ics`](https://holidays.deno.dev/cl.ics) 🇨🇱 Chile
-- [`cm.ics`](https://holidays.deno.dev/cm.ics) 🇨🇲 Cameroun
-- [`cn.ics`](https://holidays.deno.dev/cn.ics) 🇨🇳 中华人民共和国
-- [`co.ics`](https://holidays.deno.dev/co.ics) 🇨🇴 Colombia
-- [`cr.ics`](https://holidays.deno.dev/cr.ics) 🇨🇷 Costa Rica
-- [`cu.ics`](https://holidays.deno.dev/cu.ics) 🇨🇺 Cuba
-- [`cv.ics`](https://holidays.deno.dev/cv.ics) 🇨🇻 República de Cabo Verde
-- [`cw.ics`](https://holidays.deno.dev/cw.ics) 🇨🇼 Curaçao
-- [`cx.ics`](https://holidays.deno.dev/cx.ics) 🇨🇽 Christmas Island
-- [`cy.ics`](https://holidays.deno.dev/cy.ics) 🇨🇾 Κύπρος
-- [`cz.ics`](https://holidays.deno.dev/cz.ics) 🇨🇿 Česká republika
-- [`de.ics`](https://holidays.deno.dev/de.ics) 🇩🇪 Deutschland
-- [`dj.ics`](https://holidays.deno.dev/dj.ics) 🇩🇯 République de Djibouti
-- [`dk.ics`](https://holidays.deno.dev/dk.ics) 🇩🇰 Danmark
-- [`dm.ics`](https://holidays.deno.dev/dm.ics) 🇩🇲 Dominica
-- [`do.ics`](https://holidays.deno.dev/do.ics) 🇩🇴 República Dominicana
-- [`dz.ics`](https://holidays.deno.dev/dz.ics) 🇩🇿 الجمهورية الجزائرية الديمقراطية الشعبية
-- [`ec.ics`](https://holidays.deno.dev/ec.ics) 🇪🇨 Ecuador
-- [`ee.ics`](https://holidays.deno.dev/ee.ics) 🇪🇪 Eesti
-- [`eg.ics`](https://holidays.deno.dev/eg.ics) 🇪🇬 جمهورية مصر العربية
-- [`eh.ics`](https://holidays.deno.dev/eh.ics) 🇪🇭 الجمهورية العربية الصحراوية الديمقراطية
-- [`er.ics`](https://holidays.deno.dev/er.ics) 🇪🇷 Eritrea
-- [`es.ics`](https://holidays.deno.dev/es.ics) 🇪🇸 España
-- [`et.ics`](https://holidays.deno.dev/et.ics) 🇪🇹 ኢትዮጵያ
-- [`fi.ics`](https://holidays.deno.dev/fi.ics) 🇫🇮 Suomi
-- [`fj.ics`](https://holidays.deno.dev/fj.ics) 🇫🇯 Matanitu Tugalala o Viti
-- [`fo.ics`](https://holidays.deno.dev/fo.ics) 🇫🇴 Føroyar
-- [`fr.ics`](https://holidays.deno.dev/fr.ics) 🇫🇷 France
-- [`ga.ics`](https://holidays.deno.dev/ga.ics) 🇬🇦 Gabon
-- [`gb.ics`](https://holidays.deno.dev/gb.ics) 🇬🇧 United Kingdom
-- [`gd.ics`](https://holidays.deno.dev/gd.ics) 🇬🇩 Grenada
-- [`ge.ics`](https://holidays.deno.dev/ge.ics) 🇬🇪 საქართველო
-- [`gf.ics`](https://holidays.deno.dev/gf.ics) 🇬🇫 Guyane
-- [`gg.ics`](https://holidays.deno.dev/gg.ics) 🇬🇬 Guernsey
-- [`gh.ics`](https://holidays.deno.dev/gh.ics) 🇬🇭 Ghana
-- [`gi.ics`](https://holidays.deno.dev/gi.ics) 🇬🇮 Gibraltar
-- [`gl.ics`](https://holidays.deno.dev/gl.ics) 🇬🇱 Kalaallit Nunaat
-- [`gm.ics`](https://holidays.deno.dev/gm.ics) 🇬🇲 The Gambia
-- [`gn.ics`](https://holidays.deno.dev/gn.ics) 🇬🇳 Guinée
-- [`gp.ics`](https://holidays.deno.dev/gp.ics) 🇬🇵 Guadeloupe
-- [`gq.ics`](https://holidays.deno.dev/gq.ics) 🇬🇶 República de Guinea Ecuatorial
-- [`gr.ics`](https://holidays.deno.dev/gr.ics) 🇬🇷 Ελλάδα
-- [`gt.ics`](https://holidays.deno.dev/gt.ics) 🇬🇹 Guatemala
-- [`gu.ics`](https://holidays.deno.dev/gu.ics) 🇬🇺 Guam
-- [`gw.ics`](https://holidays.deno.dev/gw.ics) 🇬🇼 Guiné-Bissau
-- [`gy.ics`](https://holidays.deno.dev/gy.ics) 🇬🇾 Guyana
-- [`hk.ics`](https://holidays.deno.dev/hk.ics) 🇭🇰 香港
-- [`hn.ics`](https://holidays.deno.dev/hn.ics) 🇭🇳 Honduras
-- [`hr.ics`](https://holidays.deno.dev/hr.ics) 🇭🇷 Hrvatska
-- [`ht.ics`](https://holidays.deno.dev/ht.ics) 🇭🇹 Haïti
-- [`hu.ics`](https://holidays.deno.dev/hu.ics) 🇭🇺 Magyarország
-- [`ic.ics`](https://holidays.deno.dev/ic.ics) 🇮🇨 Islas Canarias
-- [`id.ics`](https://holidays.deno.dev/id.ics) 🇮🇩 Indonesia
-- [`ie.ics`](https://holidays.deno.dev/ie.ics) 🇮🇪 Ireland
-- [`il.ics`](https://holidays.deno.dev/il.ics) 🇮🇱 מְדִינַת יִשְׂרָאֵל
-- [`im.ics`](https://holidays.deno.dev/im.ics) 🇮🇲 Isle of Man
-- [`ir.ics`](https://holidays.deno.dev/ir.ics) 🇮🇷 جمهوری اسلامی ایران
-- [`is.ics`](https://holidays.deno.dev/is.ics) 🇮🇸 Ísland
-- [`it.ics`](https://holidays.deno.dev/it.ics) 🇮🇹 Italia
-- [`je.ics`](https://holidays.deno.dev/je.ics) 🇯🇪 Jersey
-- [`jm.ics`](https://holidays.deno.dev/jm.ics) 🇯🇲 Jamaica
-- [`jp.ics`](https://holidays.deno.dev/jp.ics) 🇯🇵 日本
-- [`ke.ics`](https://holidays.deno.dev/ke.ics) 🇰🇪 Kenya
-- [`km.ics`](https://holidays.deno.dev/km.ics) 🇰🇲 Union des Comores
-- [`kn.ics`](https://holidays.deno.dev/kn.ics) 🇰🇳 St. Kitts & Nevis
-- [`kr.ics`](https://holidays.deno.dev/kr.ics) 🇰🇷 대한민국
-- [`ky.ics`](https://holidays.deno.dev/ky.ics) 🇰🇾 Cayman Islands
-- [`lc.ics`](https://holidays.deno.dev/lc.ics) 🇱🇨 St. Lucia
-- [`li.ics`](https://holidays.deno.dev/li.ics) 🇱🇮 Lichtenstein
-- [`lr.ics`](https://holidays.deno.dev/lr.ics) 🇱🇷 Liberia
-- [`ls.ics`](https://holidays.deno.dev/ls.ics) 🇱🇸 \'Muso oa Lesotho
-- [`lt.ics`](https://holidays.deno.dev/lt.ics) 🇱🇹 Lietuva
-- [`lu.ics`](https://holidays.deno.dev/lu.ics) 🇱🇺 Luxembourg
-- [`lv.ics`](https://holidays.deno.dev/lv.ics) 🇱🇻 Latvija
-- [`ly.ics`](https://holidays.deno.dev/ly.ics) 🇱🇾 دولة ليبيا
-- [`ma.ics`](https://holidays.deno.dev/ma.ics) 🇲🇦 المملكة المغربية
-- [`mc.ics`](https://holidays.deno.dev/mc.ics) 🇲🇨 Monaco
-- [`md.ics`](https://holidays.deno.dev/md.ics) 🇲🇩 Republica Moldova
-- [`me.ics`](https://holidays.deno.dev/me.ics) 🇲🇪 Crna Gora
-- [`mf.ics`](https://holidays.deno.dev/mf.ics) 🇲🇫 Saint Martin
-- [`mg.ics`](https://holidays.deno.dev/mg.ics) 🇲🇬 Repoblikan'i Madagasikara
-- [`mk.ics`](https://holidays.deno.dev/mk.ics) 🇲🇰 Република Македонија
-- [`ml.ics`](https://holidays.deno.dev/ml.ics) 🇲🇱 République du Mali
-- [`mq.ics`](https://holidays.deno.dev/mq.ics) 🇲🇶 Martinique
-- [`mr.ics`](https://holidays.deno.dev/mr.ics) 🇲🇷 الجمهورية الإسلامية الموريتانية
-- [`ms.ics`](https://holidays.deno.dev/ms.ics) 🇲🇸 Montserrat
-- [`mt.ics`](https://holidays.deno.dev/mt.ics) 🇲🇹 Malta
-- [`mw.ics`](https://holidays.deno.dev/mw.ics) 🇲🇼 Malawi
-- [`mx.ics`](https://holidays.deno.dev/mx.ics) 🇲🇽 México
-- [`my.ics`](https://holidays.deno.dev/my.ics) 🇲🇾 Malaysia
-- [`mz.ics`](https://holidays.deno.dev/mz.ics) 🇲🇿 Moçambique
-- [`na.ics`](https://holidays.deno.dev/na.ics) 🇳🇦 Namibia
-- [`nc.ics`](https://holidays.deno.dev/nc.ics) 🇳🇨 Nouvelle-Calédonie
-- [`ne.ics`](https://holidays.deno.dev/ne.ics) 🇳🇪 République du Niger
-- [`ng.ics`](https://holidays.deno.dev/ng.ics) 🇳🇬 Nigeria
-- [`ni.ics`](https://holidays.deno.dev/ni.ics) 🇳🇮 Nicaragua
-- [`nl.ics`](https://holidays.deno.dev/nl.ics) 🇳🇱 Nederland
-- [`no.ics`](https://holidays.deno.dev/no.ics) 🇳🇴 Norge
-- [`nz.ics`](https://holidays.deno.dev/nz.ics) 🇳🇿 New Zealand
-- [`pa.ics`](https://holidays.deno.dev/pa.ics) 🇵🇦 Panamá
-- [`pe.ics`](https://holidays.deno.dev/pe.ics) 🇵🇪 Perú
-- [`ph.ics`](https://holidays.deno.dev/ph.ics) 🇵🇭 Philippines
-- [`pl.ics`](https://holidays.deno.dev/pl.ics) 🇵🇱 Polska
-- [`pm.ics`](https://holidays.deno.dev/pm.ics) 🇵🇲 St. Pierre & Miquelon
-- [`pr.ics`](https://holidays.deno.dev/pr.ics) 🇵🇷 Puerto Rico
-- [`pt.ics`](https://holidays.deno.dev/pt.ics) 🇵🇹 Portugal
-- [`py.ics`](https://holidays.deno.dev/py.ics) 🇵🇾 Paraguay
-- [`re.ics`](https://holidays.deno.dev/re.ics) 🇷🇪 Réunion
-- [`ro.ics`](https://holidays.deno.dev/ro.ics) 🇷🇴 Romania
-- [`rs.ics`](https://holidays.deno.dev/rs.ics) 🇷🇸 Република Србија
-- [`ru.ics`](https://holidays.deno.dev/ru.ics) 🇷🇺 Россия
-- [`rw.ics`](https://holidays.deno.dev/rw.ics) 🇷🇼 Rwanda
-- [`sc.ics`](https://holidays.deno.dev/sc.ics) 🇸🇨 Seychelles
-- [`sd.ics`](https://holidays.deno.dev/sd.ics) 🇸🇩 جمهورية السودان
-- [`se.ics`](https://holidays.deno.dev/se.ics) 🇸🇪 Sverige
-- [`sg.ics`](https://holidays.deno.dev/sg.ics) 🇸🇬 Singapore
-- [`sh.ics`](https://holidays.deno.dev/sh.ics) 🇸🇭 St. Helena
-- [`si.ics`](https://holidays.deno.dev/si.ics) 🇸🇮 Republika Slovenija
-- [`sj.ics`](https://holidays.deno.dev/sj.ics) 🇸🇯 Svalbard & Jan Mayen
-- [`sk.ics`](https://holidays.deno.dev/sk.ics) 🇸🇰 Slovenská republika
-- [`sl.ics`](https://holidays.deno.dev/sl.ics) 🇸🇱 Sierra Leone
-- [`sm.ics`](https://holidays.deno.dev/sm.ics) 🇸🇲 San Marino
-- [`sn.ics`](https://holidays.deno.dev/sn.ics) 🇸🇳 République du Sénégal
-- [`so.ics`](https://holidays.deno.dev/so.ics) 🇸🇴 Jamhuuriyadda Federaalka Soomaaliya
-- [`sr.ics`](https://holidays.deno.dev/sr.ics) 🇸🇷 Suriname
-- [`ss.ics`](https://holidays.deno.dev/ss.ics) 🇸🇸 South Sudan
-- [`st.ics`](https://holidays.deno.dev/st.ics) 🇸🇹 São Tomé & Príncipe
-- [`sv.ics`](https://holidays.deno.dev/sv.ics) 🇸🇻 El Salvador
-- [`sx.ics`](https://holidays.deno.dev/sx.ics) 🇸🇽 Sint Maarten
-- [`sz.ics`](https://holidays.deno.dev/sz.ics) 🇸🇿 Eswatini
-- [`tc.ics`](https://holidays.deno.dev/tc.ics) 🇹🇨 Turks & Caicos Islands
-- [`td.ics`](https://holidays.deno.dev/td.ics) 🇹🇩 جمهورية تشاد
-- [`tg.ics`](https://holidays.deno.dev/tg.ics) 🇹🇬 République togolaise
-- [`th.ics`](https://holidays.deno.dev/th.ics) 🇹🇭 Thailand
-- [`tn.ics`](https://holidays.deno.dev/tn.ics) 🇹🇳 الجمهورية التونسية
-- [`to.ics`](https://holidays.deno.dev/to.ics) 🇹🇴 Puleʻanga Fakatuʻi ʻo Tonga
-- [`tr.ics`](https://holidays.deno.dev/tr.ics) 🇹🇷 Türkiye
-- [`tt.ics`](https://holidays.deno.dev/tt.ics) 🇹🇹 Trinidad & Tobago
-- [`tw.ics`](https://holidays.deno.dev/tw.ics) 🇹🇼 中華民國
-- [`tz.ics`](https://holidays.deno.dev/tz.ics) 🇹🇿 Tanzania
-- [`ua.ics`](https://holidays.deno.dev/ua.ics) 🇺🇦 Україна
-- [`ug.ics`](https://holidays.deno.dev/ug.ics) 🇺🇬 Uganda
-- [`us.ics`](https://holidays.deno.dev/us.ics) 🇺🇸 United States of America
-- [`uy.ics`](https://holidays.deno.dev/uy.ics) 🇺🇾 Uruguay
-- [`va.ics`](https://holidays.deno.dev/va.ics) 🇻🇦 Stato della Città del Vaticano
-- [`vc.ics`](https://holidays.deno.dev/vc.ics) 🇻🇨 St. Vincent & Grenadines
-- [`ve.ics`](https://holidays.deno.dev/ve.ics) 🇻🇪 Venezuela
-- [`vg.ics`](https://holidays.deno.dev/vg.ics) 🇻🇬 British Virgin Islands
-- [`vi.ics`](https://holidays.deno.dev/vi.ics) 🇻🇮 U.S. Virgin Islands
-- [`vn.ics`](https://holidays.deno.dev/vn.ics) 🇻🇳 Cộng hòa Xã hội chủ nghĩa Việt Nam
-- [`vu.ics`](https://holidays.deno.dev/vu.ics) 🇻🇺 République de Vanuatu
-- [`xk.ics`](https://holidays.deno.dev/xk.ics) 🇽🇰 Republika e Kosovës
-- [`yt.ics`](https://holidays.deno.dev/yt.ics) 🇾🇹 Mayotte
-- [`za.ics`](https://holidays.deno.dev/za.ics) 🇿🇦 South Africa
-- [`zm.ics`](https://holidays.deno.dev/zm.ics) 🇿🇲 Zambia
-- [`zw.ics`](https://holidays.deno.dev/zw.ics) 🇿🇼 Zimbabwe
+- [`ad.ics`](https://holidays.fogtype.deno.net/ad.ics) 🇦🇩 Andorra
+- [`ae.ics`](https://holidays.fogtype.deno.net/ae.ics) 🇦🇪 دولة الإمارات العربية المتحدة
+- [`ag.ics`](https://holidays.fogtype.deno.net/ag.ics) 🇦🇬 Antigua & Barbuda
+- [`ai.ics`](https://holidays.fogtype.deno.net/ai.ics) 🇦🇮 Anguilla
+- [`al.ics`](https://holidays.fogtype.deno.net/al.ics) 🇦🇱 Shqipëri
+- [`am.ics`](https://holidays.fogtype.deno.net/am.ics) 🇦🇲 Հայաստան
+- [`ao.ics`](https://holidays.fogtype.deno.net/ao.ics) 🇦🇴 Angola
+- [`ar.ics`](https://holidays.fogtype.deno.net/ar.ics) 🇦🇷 Argentina
+- [`as.ics`](https://holidays.fogtype.deno.net/as.ics) 🇦🇸 American Samoa
+- [`at.ics`](https://holidays.fogtype.deno.net/at.ics) 🇦🇹 Österreich
+- [`au.ics`](https://holidays.fogtype.deno.net/au.ics) 🇦🇺 Australia
+- [`aw.ics`](https://holidays.fogtype.deno.net/aw.ics) 🇦🇼 Aruba
+- [`ax.ics`](https://holidays.fogtype.deno.net/ax.ics) 🇦🇽 Landskapet Åland
+- [`az.ics`](https://holidays.fogtype.deno.net/az.ics) 🇦🇿 Azərbaycan Respublikası
+- [`ba.ics`](https://holidays.fogtype.deno.net/ba.ics) 🇧🇦 Bosna i Hercegovina
+- [`bb.ics`](https://holidays.fogtype.deno.net/bb.ics) 🇧🇧 Barbados
+- [`bd.ics`](https://holidays.fogtype.deno.net/bd.ics) 🇧🇩 গণপ্রজাতন্ত্রী বাংলাদেশ
+- [`be.ics`](https://holidays.fogtype.deno.net/be.ics) 🇧🇪 Belgique
+- [`bf.ics`](https://holidays.fogtype.deno.net/bf.ics) 🇧🇫 Burkina Faso
+- [`bg.ics`](https://holidays.fogtype.deno.net/bg.ics) 🇧🇬 България
+- [`bh.ics`](https://holidays.fogtype.deno.net/bh.ics) 🇧🇭 مملكة البحرين
+- [`bi.ics`](https://holidays.fogtype.deno.net/bi.ics) 🇧🇮 République du Burundi
+- [`bj.ics`](https://holidays.fogtype.deno.net/bj.ics) 🇧🇯 République du Bénin
+- [`bl.ics`](https://holidays.fogtype.deno.net/bl.ics) 🇧🇱 St. Barthélemy
+- [`bm.ics`](https://holidays.fogtype.deno.net/bm.ics) 🇧🇲 Bermuda
+- [`bn.ics`](https://holidays.fogtype.deno.net/bn.ics) 🇧🇳 Negara Brunei Darussalam
+- [`bo.ics`](https://holidays.fogtype.deno.net/bo.ics) 🇧🇴 Bolivia
+- [`bq.ics`](https://holidays.fogtype.deno.net/bq.ics) 🇧🇶 Caribisch Nederland
+- [`br.ics`](https://holidays.fogtype.deno.net/br.ics) 🇧🇷 Brasil
+- [`bs.ics`](https://holidays.fogtype.deno.net/bs.ics) 🇧🇸 Bahamas
+- [`bw.ics`](https://holidays.fogtype.deno.net/bw.ics) 🇧🇼 Botswana
+- [`by.ics`](https://holidays.fogtype.deno.net/by.ics) 🇧🇾 Рэспубліка Беларусь
+- [`bz.ics`](https://holidays.fogtype.deno.net/bz.ics) 🇧🇿 Belize
+- [`ca.ics`](https://holidays.fogtype.deno.net/ca.ics) 🇨🇦 Canada
+- [`cc.ics`](https://holidays.fogtype.deno.net/cc.ics) 🇨🇨 Cocos (Keeling) Islands
+- [`cd.ics`](https://holidays.fogtype.deno.net/cd.ics) 🇨🇩 République démocratique du Congo
+- [`cf.ics`](https://holidays.fogtype.deno.net/cf.ics) 🇨🇫 République centrafricaine
+- [`cg.ics`](https://holidays.fogtype.deno.net/cg.ics) 🇨🇬 République du Congo
+- [`ch.ics`](https://holidays.fogtype.deno.net/ch.ics) 🇨🇭 Schweiz
+- [`ci.ics`](https://holidays.fogtype.deno.net/ci.ics) 🇨🇮 République de Côte d'Ivoire
+- [`ck.ics`](https://holidays.fogtype.deno.net/ck.ics) 🇨🇰 Cook Islands
+- [`cl.ics`](https://holidays.fogtype.deno.net/cl.ics) 🇨🇱 Chile
+- [`cm.ics`](https://holidays.fogtype.deno.net/cm.ics) 🇨🇲 Cameroun
+- [`cn.ics`](https://holidays.fogtype.deno.net/cn.ics) 🇨🇳 中华人民共和国
+- [`co.ics`](https://holidays.fogtype.deno.net/co.ics) 🇨🇴 Colombia
+- [`cr.ics`](https://holidays.fogtype.deno.net/cr.ics) 🇨🇷 Costa Rica
+- [`cu.ics`](https://holidays.fogtype.deno.net/cu.ics) 🇨🇺 Cuba
+- [`cv.ics`](https://holidays.fogtype.deno.net/cv.ics) 🇨🇻 República de Cabo Verde
+- [`cw.ics`](https://holidays.fogtype.deno.net/cw.ics) 🇨🇼 Curaçao
+- [`cx.ics`](https://holidays.fogtype.deno.net/cx.ics) 🇨🇽 Christmas Island
+- [`cy.ics`](https://holidays.fogtype.deno.net/cy.ics) 🇨🇾 Κύπρος
+- [`cz.ics`](https://holidays.fogtype.deno.net/cz.ics) 🇨🇿 Česká republika
+- [`de.ics`](https://holidays.fogtype.deno.net/de.ics) 🇩🇪 Deutschland
+- [`dj.ics`](https://holidays.fogtype.deno.net/dj.ics) 🇩🇯 République de Djibouti
+- [`dk.ics`](https://holidays.fogtype.deno.net/dk.ics) 🇩🇰 Danmark
+- [`dm.ics`](https://holidays.fogtype.deno.net/dm.ics) 🇩🇲 Dominica
+- [`do.ics`](https://holidays.fogtype.deno.net/do.ics) 🇩🇴 República Dominicana
+- [`dz.ics`](https://holidays.fogtype.deno.net/dz.ics) 🇩🇿 الجمهورية الجزائرية الديمقراطية الشعبية
+- [`ec.ics`](https://holidays.fogtype.deno.net/ec.ics) 🇪🇨 Ecuador
+- [`ee.ics`](https://holidays.fogtype.deno.net/ee.ics) 🇪🇪 Eesti
+- [`eg.ics`](https://holidays.fogtype.deno.net/eg.ics) 🇪🇬 جمهورية مصر العربية
+- [`eh.ics`](https://holidays.fogtype.deno.net/eh.ics) 🇪🇭 الجمهورية العربية الصحراوية الديمقراطية
+- [`er.ics`](https://holidays.fogtype.deno.net/er.ics) 🇪🇷 Eritrea
+- [`es.ics`](https://holidays.fogtype.deno.net/es.ics) 🇪🇸 España
+- [`et.ics`](https://holidays.fogtype.deno.net/et.ics) 🇪🇹 ኢትዮጵያ
+- [`fi.ics`](https://holidays.fogtype.deno.net/fi.ics) 🇫🇮 Suomi
+- [`fj.ics`](https://holidays.fogtype.deno.net/fj.ics) 🇫🇯 Matanitu Tugalala o Viti
+- [`fo.ics`](https://holidays.fogtype.deno.net/fo.ics) 🇫🇴 Føroyar
+- [`fr.ics`](https://holidays.fogtype.deno.net/fr.ics) 🇫🇷 France
+- [`ga.ics`](https://holidays.fogtype.deno.net/ga.ics) 🇬🇦 Gabon
+- [`gb.ics`](https://holidays.fogtype.deno.net/gb.ics) 🇬🇧 United Kingdom
+- [`gd.ics`](https://holidays.fogtype.deno.net/gd.ics) 🇬🇩 Grenada
+- [`ge.ics`](https://holidays.fogtype.deno.net/ge.ics) 🇬🇪 საქართველო
+- [`gf.ics`](https://holidays.fogtype.deno.net/gf.ics) 🇬🇫 Guyane
+- [`gg.ics`](https://holidays.fogtype.deno.net/gg.ics) 🇬🇬 Guernsey
+- [`gh.ics`](https://holidays.fogtype.deno.net/gh.ics) 🇬🇭 Ghana
+- [`gi.ics`](https://holidays.fogtype.deno.net/gi.ics) 🇬🇮 Gibraltar
+- [`gl.ics`](https://holidays.fogtype.deno.net/gl.ics) 🇬🇱 Kalaallit Nunaat
+- [`gm.ics`](https://holidays.fogtype.deno.net/gm.ics) 🇬🇲 The Gambia
+- [`gn.ics`](https://holidays.fogtype.deno.net/gn.ics) 🇬🇳 Guinée
+- [`gp.ics`](https://holidays.fogtype.deno.net/gp.ics) 🇬🇵 Guadeloupe
+- [`gq.ics`](https://holidays.fogtype.deno.net/gq.ics) 🇬🇶 República de Guinea Ecuatorial
+- [`gr.ics`](https://holidays.fogtype.deno.net/gr.ics) 🇬🇷 Ελλάδα
+- [`gt.ics`](https://holidays.fogtype.deno.net/gt.ics) 🇬🇹 Guatemala
+- [`gu.ics`](https://holidays.fogtype.deno.net/gu.ics) 🇬🇺 Guam
+- [`gw.ics`](https://holidays.fogtype.deno.net/gw.ics) 🇬🇼 Guiné-Bissau
+- [`gy.ics`](https://holidays.fogtype.deno.net/gy.ics) 🇬🇾 Guyana
+- [`hk.ics`](https://holidays.fogtype.deno.net/hk.ics) 🇭🇰 香港
+- [`hn.ics`](https://holidays.fogtype.deno.net/hn.ics) 🇭🇳 Honduras
+- [`hr.ics`](https://holidays.fogtype.deno.net/hr.ics) 🇭🇷 Hrvatska
+- [`ht.ics`](https://holidays.fogtype.deno.net/ht.ics) 🇭🇹 Haïti
+- [`hu.ics`](https://holidays.fogtype.deno.net/hu.ics) 🇭🇺 Magyarország
+- [`ic.ics`](https://holidays.fogtype.deno.net/ic.ics) 🇮🇨 Islas Canarias
+- [`id.ics`](https://holidays.fogtype.deno.net/id.ics) 🇮🇩 Indonesia
+- [`ie.ics`](https://holidays.fogtype.deno.net/ie.ics) 🇮🇪 Ireland
+- [`il.ics`](https://holidays.fogtype.deno.net/il.ics) 🇮🇱 מְדִינַת יִשְׂרָאֵל
+- [`im.ics`](https://holidays.fogtype.deno.net/im.ics) 🇮🇲 Isle of Man
+- [`ir.ics`](https://holidays.fogtype.deno.net/ir.ics) 🇮🇷 جمهوری اسلامی ایران
+- [`is.ics`](https://holidays.fogtype.deno.net/is.ics) 🇮🇸 Ísland
+- [`it.ics`](https://holidays.fogtype.deno.net/it.ics) 🇮🇹 Italia
+- [`je.ics`](https://holidays.fogtype.deno.net/je.ics) 🇯🇪 Jersey
+- [`jm.ics`](https://holidays.fogtype.deno.net/jm.ics) 🇯🇲 Jamaica
+- [`jp.ics`](https://holidays.fogtype.deno.net/jp.ics) 🇯🇵 日本
+- [`ke.ics`](https://holidays.fogtype.deno.net/ke.ics) 🇰🇪 Kenya
+- [`km.ics`](https://holidays.fogtype.deno.net/km.ics) 🇰🇲 Union des Comores
+- [`kn.ics`](https://holidays.fogtype.deno.net/kn.ics) 🇰🇳 St. Kitts & Nevis
+- [`kr.ics`](https://holidays.fogtype.deno.net/kr.ics) 🇰🇷 대한민국
+- [`ky.ics`](https://holidays.fogtype.deno.net/ky.ics) 🇰🇾 Cayman Islands
+- [`lc.ics`](https://holidays.fogtype.deno.net/lc.ics) 🇱🇨 St. Lucia
+- [`li.ics`](https://holidays.fogtype.deno.net/li.ics) 🇱🇮 Lichtenstein
+- [`lr.ics`](https://holidays.fogtype.deno.net/lr.ics) 🇱🇷 Liberia
+- [`ls.ics`](https://holidays.fogtype.deno.net/ls.ics) 🇱🇸 \'Muso oa Lesotho
+- [`lt.ics`](https://holidays.fogtype.deno.net/lt.ics) 🇱🇹 Lietuva
+- [`lu.ics`](https://holidays.fogtype.deno.net/lu.ics) 🇱🇺 Luxembourg
+- [`lv.ics`](https://holidays.fogtype.deno.net/lv.ics) 🇱🇻 Latvija
+- [`ly.ics`](https://holidays.fogtype.deno.net/ly.ics) 🇱🇾 دولة ليبيا
+- [`ma.ics`](https://holidays.fogtype.deno.net/ma.ics) 🇲🇦 المملكة المغربية
+- [`mc.ics`](https://holidays.fogtype.deno.net/mc.ics) 🇲🇨 Monaco
+- [`md.ics`](https://holidays.fogtype.deno.net/md.ics) 🇲🇩 Republica Moldova
+- [`me.ics`](https://holidays.fogtype.deno.net/me.ics) 🇲🇪 Crna Gora
+- [`mf.ics`](https://holidays.fogtype.deno.net/mf.ics) 🇲🇫 Saint Martin
+- [`mg.ics`](https://holidays.fogtype.deno.net/mg.ics) 🇲🇬 Repoblikan'i Madagasikara
+- [`mk.ics`](https://holidays.fogtype.deno.net/mk.ics) 🇲🇰 Република Македонија
+- [`ml.ics`](https://holidays.fogtype.deno.net/ml.ics) 🇲🇱 République du Mali
+- [`mq.ics`](https://holidays.fogtype.deno.net/mq.ics) 🇲🇶 Martinique
+- [`mr.ics`](https://holidays.fogtype.deno.net/mr.ics) 🇲🇷 الجمهورية الإسلامية الموريتانية
+- [`ms.ics`](https://holidays.fogtype.deno.net/ms.ics) 🇲🇸 Montserrat
+- [`mt.ics`](https://holidays.fogtype.deno.net/mt.ics) 🇲🇹 Malta
+- [`mw.ics`](https://holidays.fogtype.deno.net/mw.ics) 🇲🇼 Malawi
+- [`mx.ics`](https://holidays.fogtype.deno.net/mx.ics) 🇲🇽 México
+- [`my.ics`](https://holidays.fogtype.deno.net/my.ics) 🇲🇾 Malaysia
+- [`mz.ics`](https://holidays.fogtype.deno.net/mz.ics) 🇲🇿 Moçambique
+- [`na.ics`](https://holidays.fogtype.deno.net/na.ics) 🇳🇦 Namibia
+- [`nc.ics`](https://holidays.fogtype.deno.net/nc.ics) 🇳🇨 Nouvelle-Calédonie
+- [`ne.ics`](https://holidays.fogtype.deno.net/ne.ics) 🇳🇪 République du Niger
+- [`ng.ics`](https://holidays.fogtype.deno.net/ng.ics) 🇳🇬 Nigeria
+- [`ni.ics`](https://holidays.fogtype.deno.net/ni.ics) 🇳🇮 Nicaragua
+- [`nl.ics`](https://holidays.fogtype.deno.net/nl.ics) 🇳🇱 Nederland
+- [`no.ics`](https://holidays.fogtype.deno.net/no.ics) 🇳🇴 Norge
+- [`nz.ics`](https://holidays.fogtype.deno.net/nz.ics) 🇳🇿 New Zealand
+- [`pa.ics`](https://holidays.fogtype.deno.net/pa.ics) 🇵🇦 Panamá
+- [`pe.ics`](https://holidays.fogtype.deno.net/pe.ics) 🇵🇪 Perú
+- [`ph.ics`](https://holidays.fogtype.deno.net/ph.ics) 🇵🇭 Philippines
+- [`pl.ics`](https://holidays.fogtype.deno.net/pl.ics) 🇵🇱 Polska
+- [`pm.ics`](https://holidays.fogtype.deno.net/pm.ics) 🇵🇲 St. Pierre & Miquelon
+- [`pr.ics`](https://holidays.fogtype.deno.net/pr.ics) 🇵🇷 Puerto Rico
+- [`pt.ics`](https://holidays.fogtype.deno.net/pt.ics) 🇵🇹 Portugal
+- [`py.ics`](https://holidays.fogtype.deno.net/py.ics) 🇵🇾 Paraguay
+- [`re.ics`](https://holidays.fogtype.deno.net/re.ics) 🇷🇪 Réunion
+- [`ro.ics`](https://holidays.fogtype.deno.net/ro.ics) 🇷🇴 Romania
+- [`rs.ics`](https://holidays.fogtype.deno.net/rs.ics) 🇷🇸 Република Србија
+- [`ru.ics`](https://holidays.fogtype.deno.net/ru.ics) 🇷🇺 Россия
+- [`rw.ics`](https://holidays.fogtype.deno.net/rw.ics) 🇷🇼 Rwanda
+- [`sc.ics`](https://holidays.fogtype.deno.net/sc.ics) 🇸🇨 Seychelles
+- [`sd.ics`](https://holidays.fogtype.deno.net/sd.ics) 🇸🇩 جمهورية السودان
+- [`se.ics`](https://holidays.fogtype.deno.net/se.ics) 🇸🇪 Sverige
+- [`sg.ics`](https://holidays.fogtype.deno.net/sg.ics) 🇸🇬 Singapore
+- [`sh.ics`](https://holidays.fogtype.deno.net/sh.ics) 🇸🇭 St. Helena
+- [`si.ics`](https://holidays.fogtype.deno.net/si.ics) 🇸🇮 Republika Slovenija
+- [`sj.ics`](https://holidays.fogtype.deno.net/sj.ics) 🇸🇯 Svalbard & Jan Mayen
+- [`sk.ics`](https://holidays.fogtype.deno.net/sk.ics) 🇸🇰 Slovenská republika
+- [`sl.ics`](https://holidays.fogtype.deno.net/sl.ics) 🇸🇱 Sierra Leone
+- [`sm.ics`](https://holidays.fogtype.deno.net/sm.ics) 🇸🇲 San Marino
+- [`sn.ics`](https://holidays.fogtype.deno.net/sn.ics) 🇸🇳 République du Sénégal
+- [`so.ics`](https://holidays.fogtype.deno.net/so.ics) 🇸🇴 Jamhuuriyadda Federaalka Soomaaliya
+- [`sr.ics`](https://holidays.fogtype.deno.net/sr.ics) 🇸🇷 Suriname
+- [`ss.ics`](https://holidays.fogtype.deno.net/ss.ics) 🇸🇸 South Sudan
+- [`st.ics`](https://holidays.fogtype.deno.net/st.ics) 🇸🇹 São Tomé & Príncipe
+- [`sv.ics`](https://holidays.fogtype.deno.net/sv.ics) 🇸🇻 El Salvador
+- [`sx.ics`](https://holidays.fogtype.deno.net/sx.ics) 🇸🇽 Sint Maarten
+- [`sz.ics`](https://holidays.fogtype.deno.net/sz.ics) 🇸🇿 Eswatini
+- [`tc.ics`](https://holidays.fogtype.deno.net/tc.ics) 🇹🇨 Turks & Caicos Islands
+- [`td.ics`](https://holidays.fogtype.deno.net/td.ics) 🇹🇩 جمهورية تشاد
+- [`tg.ics`](https://holidays.fogtype.deno.net/tg.ics) 🇹🇬 République togolaise
+- [`th.ics`](https://holidays.fogtype.deno.net/th.ics) 🇹🇭 Thailand
+- [`tn.ics`](https://holidays.fogtype.deno.net/tn.ics) 🇹🇳 الجمهورية التونسية
+- [`to.ics`](https://holidays.fogtype.deno.net/to.ics) 🇹🇴 Puleʻanga Fakatuʻi ʻo Tonga
+- [`tr.ics`](https://holidays.fogtype.deno.net/tr.ics) 🇹🇷 Türkiye
+- [`tt.ics`](https://holidays.fogtype.deno.net/tt.ics) 🇹🇹 Trinidad & Tobago
+- [`tw.ics`](https://holidays.fogtype.deno.net/tw.ics) 🇹🇼 中華民國
+- [`tz.ics`](https://holidays.fogtype.deno.net/tz.ics) 🇹🇿 Tanzania
+- [`ua.ics`](https://holidays.fogtype.deno.net/ua.ics) 🇺🇦 Україна
+- [`ug.ics`](https://holidays.fogtype.deno.net/ug.ics) 🇺🇬 Uganda
+- [`us.ics`](https://holidays.fogtype.deno.net/us.ics) 🇺🇸 United States of America
+- [`uy.ics`](https://holidays.fogtype.deno.net/uy.ics) 🇺🇾 Uruguay
+- [`va.ics`](https://holidays.fogtype.deno.net/va.ics) 🇻🇦 Stato della Città del Vaticano
+- [`vc.ics`](https://holidays.fogtype.deno.net/vc.ics) 🇻🇨 St. Vincent & Grenadines
+- [`ve.ics`](https://holidays.fogtype.deno.net/ve.ics) 🇻🇪 Venezuela
+- [`vg.ics`](https://holidays.fogtype.deno.net/vg.ics) 🇻🇬 British Virgin Islands
+- [`vi.ics`](https://holidays.fogtype.deno.net/vi.ics) 🇻🇮 U.S. Virgin Islands
+- [`vn.ics`](https://holidays.fogtype.deno.net/vn.ics) 🇻🇳 Cộng hòa Xã hội chủ nghĩa Việt Nam
+- [`vu.ics`](https://holidays.fogtype.deno.net/vu.ics) 🇻🇺 République de Vanuatu
+- [`xk.ics`](https://holidays.fogtype.deno.net/xk.ics) 🇽🇰 Republika e Kosovës
+- [`yt.ics`](https://holidays.fogtype.deno.net/yt.ics) 🇾🇹 Mayotte
+- [`za.ics`](https://holidays.fogtype.deno.net/za.ics) 🇿🇦 South Africa
+- [`zm.ics`](https://holidays.fogtype.deno.net/zm.ics) 🇿🇲 Zambia
+- [`zw.ics`](https://holidays.fogtype.deno.net/zw.ics) 🇿🇼 Zimbabwe
 
 ## License
 

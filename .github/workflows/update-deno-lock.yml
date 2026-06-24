@@ -1,0 +1,32 @@
+name: Update deno.lock
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-deno-lock:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Update lockfile
+        run: deno cache --reload --lock=deno.lock --lock-write main.ts
+
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: chore/update-deno-lock
+          title: "chore: update deno.lock"
+          commit-message: "chore: update deno.lock"
+          body: |
+            Automated monthly update of `deno.lock`.

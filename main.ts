@@ -1,8 +1,13 @@
 import Holidays from "npm:date-holidays";
 import { Hono } from "npm:hono";
 import ical from "npm:ical-generator";
+import readme from "./README.md" with { type: "text" };
 
 const app = new Hono();
+
+app.get("/", (c) => {
+  return c.text(readme);
+});
 
 app.get("/:location", (c) => {
   const location = c.req

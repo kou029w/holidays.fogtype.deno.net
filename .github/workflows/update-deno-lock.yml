@@ -19,7 +19,7 @@ jobs:
           deno-version: v2.x
 
       - name: Update lockfile
-        run: deno cache --reload --lock=deno.lock --lock-write main.ts
+        run: deno cache --reload --lock=deno.lock main.ts
 
       - name: Commit and push to main
         run: |

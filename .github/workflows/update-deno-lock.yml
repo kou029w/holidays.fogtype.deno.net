@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   update-deno-lock:
@@ -22,11 +21,14 @@ jobs:
       - name: Update lockfile
         run: deno cache --reload --lock=deno.lock --lock-write main.ts
 
-      - name: Create pull request
-        uses: peter-evans/create-pull-request@v7
-        with:
-          branch: chore/update-deno-lock
-          title: "chore: update deno.lock"
-          commit-message: "chore: update deno.lock"
-          body: |
-            Automated monthly update of `deno.lock`.
+      - name: Commit and push to main
+        run: |
+          if git diff --quiet deno.lock; then
+            echo "No changes in deno.lock"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add deno.lock
+          git commit -m "chore: update deno.lock"
+          git push origin HEAD:main

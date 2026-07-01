@@ -1,0 +1,34 @@
+name: Update deno.lock
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-deno-lock:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Update lockfile
+        run: deno cache --reload --lock=deno.lock main.ts
+
+      - name: Commit and push to main
+        run: |
+          if git diff --quiet deno.lock; then
+            echo "No changes in deno.lock"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add deno.lock
+          git commit -m "chore: update deno.lock"
+          git push origin HEAD:main
